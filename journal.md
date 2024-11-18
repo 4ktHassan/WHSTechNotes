@@ -9,7 +9,8 @@ Back-End Frameworks: Django, Spring Boot, Express.js
 Database Technologies: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 Version Control: Git
 Soft Skills: Problem-solving, critical thinking, communication, collaboration
-
+# November 18, 2024 
+precision agriculture with sensors and drones allows farmers to optimize water usage and harvest yields, while online grocery delivery platforms enable convenient access to a
 
 
 
