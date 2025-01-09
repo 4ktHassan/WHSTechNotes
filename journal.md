@@ -22,7 +22,8 @@ its potential to solve complex problems and improve lives through innovation
 # October 28, 2024 
 The 2024 presidential election has the potential to be one of the most consequential in generations. With significant political ideologies
 # October 20, 2024 
-
+# January 8, 2025 
+i had a good break i am not happy to be here at school today on bro
 
 
  
