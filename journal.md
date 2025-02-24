@@ -30,3 +30,11 @@ The trajectory of AI in the tech industry suggests a future where human intellig
  Banning TikTok would be a dangerous decision putting the security of millions and the open, global Internet at risk.
 # February 3, 2025 
 All 67 people aboard an American Eagle flight from Kansas and an Army helicopter were killed in a collision Wednesday night over the Potomac River near Ronald Reagan Washington National Airport, officials said.
+# Feburary 24, 2025
+ Teaching slang as part of language and social interaction may have its place, particularly as it can help students understand peer communication and cultural nuances.
+
+
+
+
+
+
