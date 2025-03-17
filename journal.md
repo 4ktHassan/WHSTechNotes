@@ -32,6 +32,9 @@ The trajectory of AI in the tech industry suggests a future where human intellig
 All 67 people aboard an American Eagle flight from Kansas and an Army helicopter were killed in a collision Wednesday night over the Potomac River near Ronald Reagan Washington National Airport, officials said.
 # Feburary 24, 2025
  Teaching slang as part of language and social interaction may have its place, particularly as it can help students understand peer communication and cultural nuances.
+# March 17, 2025 
+During my spring break, I relied heavily on apps and streaming services for entertainment and communication, but also explored some creative outlets using digital tools. This technology helped me stay connected with friends and family, provided hours of entertainment, and even allowed me to practice some coding skills.
+My most frequent technology use involved streaming services like Netflix and Hulu for movies and TV shows, which provided a welcome escape from the daily grind. I also used social media apps like Instagram and TikTok to stay connected with friends and family, and to keep up with current events. To challenge myself creatively, I experimented with a few coding tutorials on YouTube, focusing on basic Python syntax and data structures, which helped me understand the fundamental concepts of programming. These experiences connect directly to our class topics, as I'm now better able to understand the user interface design of apps, the logic behind game development, and the general functionality of programming languages.
 
 
 
