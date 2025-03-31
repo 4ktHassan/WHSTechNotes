@@ -37,7 +37,8 @@ During my spring break, I relied heavily on apps and streaming services for ente
 My most frequent technology use involved streaming services like Netflix and Hulu for movies and TV shows, which provided a welcome escape from the daily grind. I also used social media apps like Instagram and TikTok to stay connected with friends and family, and to keep up with current events. To challenge myself creatively, I experimented with a few coding tutorials on YouTube, focusing on basic Python syntax and data structures, which helped me understand the fundamental concepts of programming. These experiences connect directly to our class topics, as I'm now better able to understand the user interface design of apps, the logic behind game development, and the general functionality of programming languages.
 # March 24, 2025
 March Madness is unpredictable, so we tested artificial intelligence to see if it could predict a perfect bracket.
-
+# March 31, 2025
+Learning to utilize some effective stress management strategies for students can help you tame these anxieties and keep your stress at manageable levels.
 
 
 
