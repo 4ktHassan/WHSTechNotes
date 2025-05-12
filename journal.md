@@ -39,7 +39,8 @@ My most frequent technology use involved streaming services like Netflix and Hul
 March Madness is unpredictable, so we tested artificial intelligence to see if it could predict a perfect bracket.
 # March 31, 2025
 Learning to utilize some effective stress management strategies for students can help you tame these anxieties and keep your stress at manageable levels.
-
+# May 5, 2025
+yall should punish them sue them expell them.
 
 
 
